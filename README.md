@@ -13,11 +13,19 @@ Devine Executor is rated Level 8 (a significant leap ahead)
 
 # Permission Levels:
 Level 0: No permissions
+
 Level 1: Plugin, RobloxPlace, LocalUser
+
 Level 2: None
+
 Level 3: RobloxPlace
+
 Level 4: Plugin, RobloxPlace, LocalUser, RobloxScript
+
 Level 5: Plugin, RobloxPlace, LocalUser
+
 Level 6: All permissions
+
 Level 7: All permissions
+
 Level 8: RobloxPlace, WritePlayer, RobloxScript
