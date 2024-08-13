@@ -1,5 +1,5 @@
 # Devine-Executor
-# VERSION 1.0.0
+# VERSION 1.0.5
 IMPORTANT:
 The Executor is undetectable. Use it at your own risk—responsibility for its use lies solely with you.
 
